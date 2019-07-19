@@ -3,8 +3,8 @@
 import os
 import sys
 import pytesseract
-from PIL import Image
 import numpy as np
+from PIL import Image
 
 argv = sys.argv
 if len(argv) != 2:
